@@ -1,0 +1,9 @@
+Deep Dungeon.7z=https://archive.org/download/lutro_202401/Deep%20Dungeon.7z *Size=983.24 KB
+Game of Life.7z=https://archive.org/download/lutro_202401/Game%20of%20Life.7z *Size=1.91 KB
+In Your Face City Trains.7z=https://archive.org/download/lutro_202401/In%20Your%20Face%20City%20Trains.7z *Size=1.65 MB
+Platformer.7z=https://archive.org/download/lutro_202401/Platformer.7z *Size=398.55 KB
+Pong.7z=https://archive.org/download/lutro_202401/Pong.7z *Size=51.46 KB
+Sienna.7z=https://archive.org/download/lutro_202401/Sienna.7z *Size=1.55 MB
+Snake.7z=https://archive.org/download/lutro_202401/Snake.7z *Size=1.69 KB
+Spaceship.7z=https://archive.org/download/lutro_202401/Spaceship.7z *Size=591.86 KB
+Tetris.7z=https://archive.org/download/lutro_202401/Tetris.7z *Size=1.41 MB

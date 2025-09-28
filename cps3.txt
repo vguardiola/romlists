@@ -1,0 +1,6 @@
+jojo.zip=https://archive.org/download/lvalriv_gmail_Cps3/Roms%2FCapcom%20Play%20System%20III%2Fjojo.zip *Size=43.88 MB
+jojoba.zip=https://archive.org/download/lvalriv_gmail_Cps3/Roms%2FCapcom%20Play%20System%20III%2Fjojoba.zip *Size=51.74 MB
+redearth.zip=https://archive.org/download/lvalriv_gmail_Cps3/Roms%2FCapcom%20Play%20System%20III%2Fredearth.zip *Size=36.6 MB
+sfiii.zip=https://archive.org/download/lvalriv_gmail_Cps3/Roms%2FCapcom%20Play%20System%20III%2Fsfiii.zip *Size=37.07 MB
+sfiii2.zip=https://archive.org/download/lvalriv_gmail_Cps3/Roms%2FCapcom%20Play%20System%20III%2Fsfiii2.zip *Size=41.75 MB
+sfiii3.zip=https://archive.org/download/lvalriv_gmail_Cps3/Roms%2FCapcom%20Play%20System%20III%2Fsfiii3.zip *Size=67.32 MB

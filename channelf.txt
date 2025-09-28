@@ -1,0 +1,33 @@
+Alien Invasion (US).chf=https://archive.org/download/FCCF-Arquivista/Alien%20Invasion%20%28US%29.chf *Size=4.0 KB
+Backgammon-Acey-Deucey (US).chf=https://archive.org/download/FCCF-Arquivista/Backgammon-Acey-Deucey%20%28US%29.chf *Size=2.0 KB
+Baseball (US).chf=https://archive.org/download/FCCF-Arquivista/Baseball%20%28US%29.chf *Size=2.0 KB
+Bowling (US).chf=https://archive.org/download/FCCF-Arquivista/Bowling%20%28US%29.chf *Size=2.0 KB
+Casino Poker (US).chf=https://archive.org/download/FCCF-Arquivista/Casino%20Poker%20%28US%29.chf *Size=4.0 KB
+Checkers (US).chf=https://archive.org/download/FCCF-Arquivista/Checkers%20%28US%29.chf *Size=2.0 KB
+Demonstration Cartridge (US).chf=https://archive.org/download/FCCF-Arquivista/Demonstration%20Cartridge%20%28US%29.chf *Size=2.0 KB
+Demonstration Cartridge 2 (US).chf=https://archive.org/download/FCCF-Arquivista/Demonstration%20Cartridge%202%20%28US%29.chf *Size=2.0 KB
+Desert Fox-Shooting Gallery (US).chf=https://archive.org/download/FCCF-Arquivista/Desert%20Fox-Shooting%20Gallery%20%28US%29.chf *Size=2.0 KB
+Dodge It (US).chf=https://archive.org/download/FCCF-Arquivista/Dodge%20It%20%28US%29.chf *Size=2.0 KB
+Drag Race (US).chf=https://archive.org/download/FCCF-Arquivista/Drag%20Race%20%28US%29.chf *Size=2.0 KB
+FCCF-Arquivista_meta.sqlite=https://archive.org/download/FCCF-Arquivista/FCCF-Arquivista_meta.sqlite *Size=128.0 KB
+Galactic Space Wars-Lunar Lander (US).chf=https://archive.org/download/FCCF-Arquivista/Galactic%20Space%20Wars-Lunar%20Lander%20%28US%29.chf *Size=2.0 KB
+Hangman (US).chf=https://archive.org/download/FCCF-Arquivista/Hangman%20%28US%29.chf *Size=3.0 KB
+Magic Numbers - Mind Reader and Nim (US).chf=https://archive.org/download/FCCF-Arquivista/Magic%20Numbers%20-%20Mind%20Reader%20and%20Nim%20%28US%29.chf *Size=2.0 KB
+Math Quiz 1 - Addition and Subtraction (US).chf=https://archive.org/download/FCCF-Arquivista/Math%20Quiz%201%20-%20Addition%20and%20Subtraction%20%28US%29.chf *Size=2.0 KB
+Math Quiz 2 - Multiplication and Division (US).chf=https://archive.org/download/FCCF-Arquivista/Math%20Quiz%202%20-%20Multiplication%20and%20Division%20%28US%29.chf *Size=2.0 KB
+Maze-Jailbreak-Blind-man-bluff-Trailblazer (US).chf=https://archive.org/download/FCCF-Arquivista/Maze-Jailbreak-Blind-man-bluff-Trailblazer%20%28US%29.chf *Size=2.0 KB
+Memory Match 1 and 2 (US).chf=https://archive.org/download/FCCF-Arquivista/Memory%20Match%201%20and%202%20%28US%29.chf *Size=2.0 KB
+Muehle-Tontauben-Schiessen-Kreatives Malspiel-Videoscope (GE).chf=https://archive.org/download/FCCF-Arquivista/Muehle-Tontauben-Schiessen-Kreatives%20Malspiel-Videoscope%20%28GE%29.chf *Size=2.0 KB
+Ordtaevling (SW).chf=https://archive.org/download/FCCF-Arquivista/Ordtaevling%20%28SW%29.chf *Size=3.0 KB
+Pinball Challenge (US).chf=https://archive.org/download/FCCF-Arquivista/Pinball%20Challenge%20%28US%29.chf *Size=2.0 KB
+Pro Football (US).chf=https://archive.org/download/FCCF-Arquivista/Pro%20Football%20%28US%29.chf *Size=4.0 KB
+Rat Mal (Germany).chf=https://archive.org/download/FCCF-Arquivista/Rat%20Mal%20%28Germany%29.chf *Size=3.0 KB
+Robot War-Torpedo Alley (US).chf=https://archive.org/download/FCCF-Arquivista/Robot%20War-Torpedo%20Alley%20%28US%29.chf *Size=2.0 KB
+Schach (GE).chf=https://archive.org/download/FCCF-Arquivista/Schach%20%28GE%29.chf *Size=6.0 KB
+Slot Machine (US).chf=https://archive.org/download/FCCF-Arquivista/Slot%20Machine%20%28US%29.chf *Size=2.0 KB
+Sonar Search (US).chf=https://archive.org/download/FCCF-Arquivista/Sonar%20Search%20%28US%29.chf *Size=2.0 KB
+Space War (US).chf=https://archive.org/download/FCCF-Arquivista/Space%20War%20%28US%29.chf *Size=2.0 KB
+Spitfire (US).chf=https://archive.org/download/FCCF-Arquivista/Spitfire%20%28US%29.chf *Size=2.0 KB
+Tic-Tac-Toe-Shooting Gallery-Doodle-Quadra-Doodle (US).chf=https://archive.org/download/FCCF-Arquivista/Tic-Tac-Toe-Shooting%20Gallery-Doodle-Quadra-Doodle%20%28US%29.chf *Size=2.0 KB
+Video Blackjack (US).chf=https://archive.org/download/FCCF-Arquivista/Video%20Blackjack%20%28US%29.chf *Size=2.0 KB
+Video Whizball (US).chf=https://archive.org/download/FCCF-Arquivista/Video%20Whizball%20%28US%29.chf *Size=3.0 KB

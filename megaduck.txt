@@ -1,0 +1,25 @@
+2nd Space.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/2nd%20Space.zip *Size=57.54 KB
+Ant Soldiers.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Ant%20Soldiers.zip *Size=71.51 KB
+Arctic Zone.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Arctic%20Zone.zip *Size=18.47 KB
+Armour Force.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Armour%20Force.zip *Size=39.82 KB
+Beast Fighter.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Beast%20Fighter.zip *Size=76.44 KB
+Black Forest Tale.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Black%20Forest%20Tale.zip *Size=42.13 KB
+Bomb Disposer.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Bomb%20Disposer.zip *Size=17.91 KB
+Captain Knick Knack.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Captain%20Knick%20Knack.zip *Size=49.64 KB
+Commin 5 in 1.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Commin%205%20in%201.zip *Size=35.94 KB
+Duck Adventures.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Duck%20Adventures.zip *Size=42.73 KB
+Magic Maze.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Magic%20Maze.zip *Size=14.56 KB
+Magical Tower.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Magical%20Tower.zip *Size=28.48 KB
+Mega Duck 4 in 1.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Mega%20Duck%204%20in%201.zip *Size=42.36 KB
+Pile Wonder (Alt).zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Pile%20Wonder%20%28Alt%29.zip *Size=18.03 KB
+Pile Wonder.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Pile%20Wonder.zip *Size=18.03 KB
+Puppet Knight.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Puppet%20Knight.zip *Size=32.31 KB
+Railway.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Railway.zip *Size=32.74 KB
+Snake Roy.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Snake%20Roy.zip *Size=28.54 KB
+Street Rider.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Street%20Rider.zip *Size=16.94 KB
+Suleiman's Treasure.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Suleiman%27s%20Treasure.zip *Size=36.13 KB
+The Brick Wall.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/The%20Brick%20Wall.zip *Size=11.78 KB
+Trap Turn.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Trap%20Turn.zip *Size=13.52 KB
+Vex.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Vex.zip *Size=12.44 KB
+Worm Visitor.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Worm%20Visitor.zip *Size=38.66 KB
+Zipball.zip=https://archive.org/download/MegaDuck201808/ROMS.zip/Zipball.zip *Size=23.62 KB

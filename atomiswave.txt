@@ -1,0 +1,16 @@
+awbios.zip=https://archive.org/download/kofxi_202009/awbios.zip *Size=33.81 KB
+demofist.zip=https://archive.org/download/kofxi_202009/demofist.zip *Size=104.55 MB
+dolphin.zip=https://archive.org/download/kofxi_202009/dolphin.zip *Size=78.8 MB
+fotns.zip=https://archive.org/download/kofxi_202009/fotns.zip *Size=112.25 MB
+ftspeed.zip=https://archive.org/download/kofxi_202009/ftspeed.zip *Size=92.46 MB
+ggisuka.zip=https://archive.org/download/kofxi_202009/ggisuka.zip *Size=125.88 MB
+ggx15.zip=https://archive.org/download/kofxi_202009/ggx15.zip *Size=108.3 MB
+kofnw.zip=https://archive.org/download/kofxi_202009/kofnw.zip *Size=96.38 MB
+kofxi.zip=https://archive.org/download/kofxi_202009/kofxi.zip *Size=222.3 MB
+kov7sprt.zip=https://archive.org/download/kofxi_202009/kov7sprt.zip *Size=104.17 MB
+maxspeed.zip=https://archive.org/download/kofxi_202009/maxspeed.zip *Size=69.65 MB
+mslug6.zip=https://archive.org/download/kofxi_202009/mslug6.zip *Size=125.38 MB
+ngbc.zip=https://archive.org/download/kofxi_202009/ngbc.zip *Size=208.08 MB
+rumblef.zip=https://archive.org/download/kofxi_202009/rumblef.zip *Size=104.61 MB
+rumblef2.zip=https://archive.org/download/kofxi_202009/rumblef2.zip *Size=139.87 MB
+samsptk.zip=https://archive.org/download/kofxi_202009/samsptk.zip *Size=207.35 MB

@@ -1,0 +1,39 @@
+2048.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2F2048.zip *Size=21.47 MB
+azecy.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2Fazecy.zip *Size=47.45 MB
+Bad Apple (Demo).zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FBad%20Apple%20%28Demo%29.zip *Size=44.88 MB
+Basic Platformer.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FBasic%20Platformer.zip *Size=25.07 MB
+Battle Plane.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FBattle%20Plane.zip *Size=3.88 MB
+Blips.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FBlips.zip *Size=13.38 MB
+Blockdude.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FBlockdude.zip *Size=11.31 MB
+Bricks (Demo).zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FBricks%20%28Demo%29.zip *Size=4.31 MB
+Chip-8 Emulator.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FChip-8%20Emulator.zip *Size=27.88 KB
+Fierce Soldier.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FFierce%20Soldier.zip *Size=24.41 MB
+Formula1.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FFormula1.zip *Size=695.45 KB
+Golf 2D.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FGolf%202D.zip *Size=17.74 MB
+JellyFish.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FJellyFish.zip *Size=5.23 MB
+Mahjong.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FMahjong.zip *Size=32.31 MB
+Mazethingie.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FMazethingie.zip *Size=22.13 KB
+MemoryGame.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FMemoryGame.zip *Size=890.62 KB
+MineSweeper.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FMineSweeper.zip *Size=14.61 MB
+Ocean Storm.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FOcean%20Storm.zip *Size=81.25 MB
+One Skill.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FOne%20Skill.zip *Size=27.51 MB
+Party Man.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FParty%20Man.zip *Size=24.36 MB
+Pseudo-3D Racer (Demo).zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FPseudo-3D%20Racer%20%28Demo%29.zip *Size=977.73 KB
+Puztrix.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FPuztrix.zip *Size=13.39 MB
+Puzzle Land.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FPuzzle%20Land.zip *Size=118.48 MB
+RetroTime.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FRetroTime.zip *Size=159.46 MB
+Robosheriff.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FRobosheriff.zip *Size=38.77 MB
+RPG Concept (Demo).zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FRPG%20Concept%20%28Demo%29.zip *Size=41.81 KB
+Rubido.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FRubido.zip *Size=48.59 MB
+Savannah Sprint.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FSavannah%20Sprint.zip *Size=14.24 MB
+Simple Tennis.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FSimple%20Tennis.zip *Size=214.58 KB
+Solitaire.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FSolitaire.zip *Size=20.45 MB
+Tic Tac Toe.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FTic%20Tac%20Toe.zip *Size=24.78 KB
+Triple Bubble (Demo).zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FTriple%20Bubble%20%28Demo%29.zip *Size=23.63 MB
+Versus Shooter.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FVersus%20Shooter.zip *Size=7.25 MB
+Vircoban.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FVircoban.zip *Size=71.13 MB
+Virconstein 3D (Demo).zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FVirconstein%203D%20%28Demo%29.zip *Size=22.65 KB
+Vitris.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FVitris.zip *Size=33.83 MB
+WarOnTheWater.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FWarOnTheWater.zip *Size=21.66 MB
+Waternet.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FWaternet.zip *Size=5.66 MB
+Znax.zip=https://archive.org/download/all_vircon32_roms_and_media/all_vircon32_roms_and_media%2FZnax.zip *Size=19.24 MB

@@ -1,0 +1,46 @@
+asndynmt.zip=https://archive.org/download/mbaa_20201003/asndynmt.zip *Size=146.72 MB
+ausfache.zip=https://archive.org/download/mbaa_20201003/ausfache.zip *Size=74.14 MB
+Azumanga Daioh Puzzle Bobble.bin=https://archive.org/download/mbaa_20201003/Azumanga%20Daioh%20Puzzle%20Bobble.bin *Size=80.0 MB
+Border Down (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Border%20Down%20%28ROM%20%2B%20CHD%29.zip *Size=201.99 MB
+Capcom vs. SNK 2 Millionaire Fighting 2001.bin=https://archive.org/download/mbaa_20201003/Capcom%20vs.%20SNK%202%20Millionaire%20Fighting%202001.bin *Size=152.0 MB
+capsnkb.zip=https://archive.org/download/mbaa_20201003/capsnkb.zip *Size=95.59 MB
+Chaos Field  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Chaos%20Field%20%20%28ROM%20%2B%20CHD%29.zip *Size=141.51 MB
+Cleopatra Fortune Plus  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Cleopatra%20Fortune%20Plus%20%20%28ROM%20%2B%20CHD%29.zip *Size=64.38 MB
+crzytaxi.zip=https://archive.org/download/mbaa_20201003/crzytaxi.zip *Size=61.05 MB
+csmash.zip=https://archive.org/download/mbaa_20201003/csmash.zip *Size=41.53 MB
+cspike.zip=https://archive.org/download/mbaa_20201003/cspike.zip *Size=62.34 MB
+doa2.zip=https://archive.org/download/mbaa_20201003/doa2.zip *Size=115.54 MB
+Guilty Gear X2 Accent Core  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Guilty%20Gear%20X2%20Accent%20Core%20%20%28ROM%20%2B%20CHD%29.zip *Size=253.97 MB
+Guilty Gear X2 Reload  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Guilty%20Gear%20X2%20Reload%20%20%28ROM%20%2B%20CHD%29.zip *Size=499.41 MB
+Guilty Gear X2 Slash  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Guilty%20Gear%20X2%20Slash%20%20%28ROM%20%2B%20CHD%29.zip *Size=248.45 MB
+gunsur2.zip=https://archive.org/download/mbaa_20201003/gunsur2.zip *Size=174.48 MB
+gwing2.zip=https://archive.org/download/mbaa_20201003/gwing2.zip *Size=56.36 MB
+Jingi Storm  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Jingi%20Storm%20%20%28ROM%20%2B%20CHD%29.zip *Size=140.02 MB
+Karous  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Karous%20%20%28ROM%20%2B%20CHD%29.zip *Size=125.1 MB
+Kuru Kuru Chameleon  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Kuru%20Kuru%20Chameleon%20%20%28ROM%20%2B%20CHD%29.zip *Size=40.11 MB
+mamonoro.zip=https://archive.org/download/mbaa_20201003/mamonoro.zip *Size=144.83 MB
+mbaa.zip=https://archive.org/download/mbaa_20201003/mbaa.zip *Size=232.64 MB
+Melty Blood Act Cadenza  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Melty%20Blood%20Act%20Cadenza%20%20%28ROM%20%2B%20CHD%29.zip *Size=419.63 MB
+mvsc2.zip=https://archive.org/download/mbaa_20201003/mvsc2.zip *Size=86.25 MB
+pjustic.zip=https://archive.org/download/mbaa_20201003/pjustic.zip *Size=124.9 MB
+pstone.zip=https://archive.org/download/mbaa_20201003/pstone.zip *Size=42.4 MB
+pstone2.zip=https://archive.org/download/mbaa_20201003/pstone2.zip *Size=55.41 MB
+Psyvariar 2  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Psyvariar%202%20%20%28ROM%20%2B%20CHD%29.zip *Size=135.33 MB
+Radirgy  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Radirgy%20%20%28ROM%20%2B%20CHD%29.zip *Size=253.98 MB
+radirgyn.zip=https://archive.org/download/mbaa_20201003/radirgyn.zip *Size=106.2 MB
+Senko no Ronde  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Senko%20no%20Ronde%20%20%28ROM%20%2B%20CHD%29.zip *Size=453.96 MB
+Senko no Ronde Special  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Senko%20no%20Ronde%20Special%20%20%28ROM%20%2B%20CHD%29.zip *Size=236.48 MB
+Shikigami no Shiro 2  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Shikigami%20no%20Shiro%202%20%20%28ROM%20%2B%20CHD%29.zip *Size=109.73 MB
+slasho.zip=https://archive.org/download/mbaa_20201003/slasho.zip *Size=111.35 MB
+Spikers Battle  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Spikers%20Battle%20%20%28ROM%20%2B%20CHD%29.zip *Size=145.96 MB
+Street Fighter Zero 3 Upper  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Street%20Fighter%20Zero%203%20Upper%20%20%28ROM%20%2B%20CHD%29.zip *Size=110.73 MB
+Tetris Kiwamemichi  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Tetris%20Kiwamemichi%20%20%28ROM%20%2B%20CHD%29.zip *Size=60.74 MB
+toyfight.zip=https://archive.org/download/mbaa_20201003/toyfight.zip *Size=44.78 MB
+Trizeal  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Trizeal%20%20%28ROM%20%2B%20CHD%29.zip *Size=128.06 MB
+Under Defeat  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Under%20Defeat%20%20%28ROM%20%2B%20CHD%29.zip *Size=149.6 MB
+virnba.zip=https://archive.org/download/mbaa_20201003/virnba.zip *Size=98.92 MB
+Virtua Athlete  (ROM + CHD).zip=https://archive.org/download/mbaa_20201003/Virtua%20Athlete%20%20%28ROM%20%2B%20CHD%29.zip *Size=84.9 MB
+Virtua Striker 2 Ver. 2000.bin=https://archive.org/download/mbaa_20201003/Virtua%20Striker%202%20Ver.%202000.bin *Size=124.0 MB
+vtenis2c.zip=https://archive.org/download/mbaa_20201003/vtenis2c.zip *Size=85.13 MB
+zerogu2.zip=https://archive.org/download/mbaa_20201003/zerogu2.zip *Size=45.39 MB
+zombrvn.zip=https://archive.org/download/mbaa_20201003/zombrvn.zip *Size=95.93 MB
