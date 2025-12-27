@@ -1,0 +1,2 @@
+jojoban.zip=https://archive.org/download/fbnarcade-fullnonmerged/arcade/jojoban.zip *Size=0 MB
+jojonr2.zip=https://archive.org/download/fbnarcade-fullnonmerged/arcade/jojonr2.zip *Size=0 MB

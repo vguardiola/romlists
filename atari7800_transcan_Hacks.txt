@@ -1,0 +1,4 @@
+i_Cat (NTSC) (Harp) (Hack) (20130124).a78=https://archive.org/download/atari-7800-roms-ultra/i_Cat%20%28NTSC%29%20%28Harp%29%20%28Hack%29%20%2820130124%29.a78 *Size=0 MB
+i_Cat (NTSC) (No Harp) (Hack) (20130124).a78=https://archive.org/download/atari-7800-roms-ultra/i_Cat%20%28NTSC%29%20%28No%20Harp%29%20%28Hack%29%20%2820130124%29.a78 *Size=0 MB
+i_Cat (PAL) (Harp) (Hack) (20130124).a78=https://archive.org/download/atari-7800-roms-ultra/i_Cat%20%28PAL%29%20%28Harp%29%20%28Hack%29%20%2820130124%29.a78 *Size=0 MB
+i_Cat (PAL) (No Harp) (Hack) (20130124).a78=https://archive.org/download/atari-7800-roms-ultra/i_Cat%20%28PAL%29%20%28No%20Harp%29%20%28Hack%29%20%2820130124%29.a78 *Size=0 MB

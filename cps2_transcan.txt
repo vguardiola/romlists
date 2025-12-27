@@ -1,0 +1,1 @@
+ssf2t.zip=https://archive.org/download/MAME_2003-Plus_Reference/roms/ssf2t.zip *Size=0 MB

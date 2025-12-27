@@ -1,0 +1,13 @@
+beachspi.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/beachspi.zip *Size=0 MB
+clubk2k3.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/clubk2k3.zip *Size=0 MB
+clubkprz.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/clubkprz.zip *Size=0 MB
+initdv2e.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/initdv2e.zip *Size=0 MB
+initdv3e.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/initdv3e.zip *Size=0 MB
+initd.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/initd.zip *Size=0 MB
+kingrt66.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/kingrt66.zip *Size=0 MB
+soulsurf.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/soulsurf.zip *Size=0 MB
+vf4evo.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/vf4evo.zip *Size=0 MB
+vf4tuned.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/vf4tuned.zip *Size=0 MB
+vf4.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/vf4.zip *Size=0 MB
+vstrik3.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/vstrik3.zip *Size=0 MB
+wldrider.zip=https://archive.org/download/recalbox-naomi2-retroninjasamurai/wldrider.zip *Size=0 MB
