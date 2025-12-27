@@ -1,4 +1,3 @@
-**
 bass.zip=https://archive.org/download/spikeout_201812/ROMS%2Fbass.zip *Size=41.68 MB
 dayto2pe.zip=https://archive.org/download/spikeout_201812/ROMS%2Fdayto2pe.zip *Size=84.96 MB
 daytona2.zip=https://archive.org/download/spikeout_201812/ROMS%2Fdaytona2.zip *Size=86.8 MB
