@@ -118,7 +118,6 @@ Behind Jaggi Lines! (USA) (Proto).zip=https://myrient.erista.me/files/No-Intro/A
 Battlezone (USA) (Proto).zip=https://myrient.erista.me/files/No-Intro/Atari%20-%205200/Battlezone%20%28USA%29%20%28Proto%29.zip *Size=9.78 KB
 Battlezone (USA) (Proto) (Alt).zip=https://myrient.erista.me/files/No-Intro/Atari%20-%205200/Battlezone%20%28USA%29%20%28Proto%29%20%28Alt%29.zip *Size=9.99 KB
 Barroom Baseball (USA) (Proto).zip=https://myrient.erista.me/files/No-Intro/Atari%20-%205200/Barroom%20Baseball%20%28USA%29%20%28Proto%29.zip *Size=16.79 KB
-
 5200 Menu (USA) (Proto).a52=https://archive.org/download/Atari5200RomCollectionByGhostware/5200%20Menu%20%28USA%29%20%28Proto%29.a52 *Size=8.0 KB
 [BIOS] Atari 5200 (USA).a52=https://archive.org/download/Atari5200RomCollectionByGhostware/%5BBIOS%5D%20Atari%205200%20%28USA%29.a52 *Size=2.0 KB
 A.E. (USA) (Proto).a52=https://archive.org/download/Atari5200RomCollectionByGhostware/A.E.%20%28USA%29%20%28Proto%29.a52 *Size=16.0 KB

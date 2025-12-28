@@ -745,4 +745,3 @@ XIII.iso=https://archive.org/download/zoocube/X%2FXIII.iso *Size=1.36 GB
 Yu-Gi-Oh! The Falsebound Kingdom (United Kingdom).iso=https://archive.org/download/zoocube/Y%2FYu-Gi-Oh%21%20The%20Falsebound%20Kingdom%20%28United%20Kingdom%29.iso *Size=1.36 GB
 Zapper.iso=https://archive.org/download/zoocube/z%2FZapper.iso *Size=1.36 GB
 ZooCube.iso=https://archive.org/download/zoocube/z%2FZooCube.iso *Size=1.36 GB
-

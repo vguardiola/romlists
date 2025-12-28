@@ -1019,5 +1019,3 @@ Zero Zero Zero Zero [PCSE01088] [USA] [NoNpDRM].zip=https://archive.org/download
 Zombies - The Last Survivor [PCSE00894] [USA] [NoNpDRM].zip=https://archive.org/download/sony-playstation-vita-usa-full-set-nonpdrm-format/Zombies%20-%20The%20Last%20Survivor%20%5BPCSE00894%5D%20%5BUSA%5D%20%5BNoNpDRM%5D.zip *Size=312.72 MB
 Zombie Tycoon 2 [PCSE00102] [USA] [NoNpDRM].zip=https://archive.org/download/sony-playstation-vita-usa-full-set-nonpdrm-format/Zombie%20Tycoon%202%20%5BPCSE00102%5D%20%5BUSA%5D%20%5BNoNpDRM%5D.zip *Size=658.28 MB
 √Letter [PCSE00963] [USA] [NoNpDRM].zip=https://archive.org/download/sony-playstation-vita-usa-full-set-nonpdrm-format/%E2%88%9ALetter%20%5BPCSE00963%5D%20%5BUSA%5D%20%5BNoNpDRM%5D.zip *Size=1.32 GB
-
-

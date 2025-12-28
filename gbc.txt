@@ -2405,7 +2405,3 @@ Warriors of Might and Magic (U) [T-Spa1.0v_Wave].zip=https://archive.org/downloa
 WWF Betrayal (UE) [T-Spa1.0v_Wave].zip=https://archive.org/download/compilacion-de-traducciones-en-espanol_20241222_1410/WWF%20Betrayal%20%28UE%29%20%5BT-Spa1.0v_Wave%5D.zip *Size=308.94 KB
 X-Men - Wolverine's Rage (U) [T-Spa1.0v_Wave].zip=https://archive.org/download/compilacion-de-traducciones-en-espanol_20241222_1410/X-Men%20-%20Wolverine%27s%20Rage%20%28U%29%20%5BT-Spa1.0v_Wave%5D.zip *Size=426.29 KB
 Zoboomafoo - Playtime in Zobooland (U) [T-Spa1.0v_Wave].zip=https://archive.org/download/compilacion-de-traducciones-en-espanol_20241222_1410/Zoboomafoo%20-%20Playtime%20in%20Zobooland%20%28U%29%20%5BT-Spa1.0v_Wave%5D.zip *Size=326.2 KB
-
-
-
-
